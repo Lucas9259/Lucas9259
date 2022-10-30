@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estudando Programação em Alura...
-- 🌱 Atualmente estou aprendendo JavaScript...
+- 🌱 Atualmente estou aprendendo JavaScript e Outras Funçoes de Programação.....
 
 <div align="center">
   <a href="https://github.com/Lucas9259">
@@ -17,9 +17,9 @@
   <a href="lukinhas.vemkvem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-  
-  
-  
+  <div align="center"> 
+<img src=  "https://raw.githubusercontent.com/LuigiGf/LuigiGFReadme2/main/code.gif"width="350px" />
+</div>
   
 ![snake gif](https://github.com/Lucas9259/Lucas9259/blob/output/github-contribution-grid-snake.svg)
-
+  
