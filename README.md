@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando Programação na Alura...
 - 🌱 Atualmente estou aprendendo JavaScript e Outras Funçoes de Programação.....
-- 💻 Estudante de Programação , No Começo de Tudo , Traçando Uma Trajetória Promissora !!
+- 💻 Estudante de Programação, Analise de sistema !!
 
 
 
