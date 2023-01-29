@@ -4,7 +4,7 @@
 
 **Ola !! Eu Sou Lucas Anthony** 👋
 
- -🌱 Atualmente estou aprendendo JavaScript e Outras Funçoes de Programação.....<br>- 💻 Estudante de Programação, Analise de sistema !!
+ -🌱 Atualmente estou aprendendo JavaScript .....<br>- 💻 Estudante de Programação, Analise de sistema !!
 
 
 
