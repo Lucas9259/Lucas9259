@@ -2,9 +2,9 @@
 
 
 
-**Ola !! Eu Sou Lucas Anthony** 👋
-
- -🌱 Atualmente estou aprendendo JavaScript .....<br>- 💻 Estudante de Programação, Analise de sistema !!
+**Olá, meu nome é Lucas Anthony** 👋 <br> <br>
+💻 sou estudante de Análise de Sistemas na Estácio e faço o curso de desenvolvimento Full Stack com foco em Back-End na OneBitCode. Tenho 24 anos e moro no RJ.
+ ##
 
 
 
