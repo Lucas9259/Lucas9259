@@ -3,7 +3,7 @@
 
 
 **Olá, meu nome é Lucas Anthony** 👋 <br> <br>
-💻 sou estudante de Análise de Sistemas na Estácio e faço o curso de desenvolvimento Full Stack com foco em Back-End na OneBitCode. Tenho 27 anos e moro no RJ.
+💻 sou estudante de Análise de Sistemas na Estácio e faço o curso de desenvolvimento Full Stack com foco em Back-End na OneBitCode. Tenho 27 anos e moro no RS / Caxias do Sul.
  ##
 
 
